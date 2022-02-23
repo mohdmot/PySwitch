@@ -5,7 +5,7 @@
 ### This is Not a Pip Library , You Have To Import it Within Read The Code From Github Raw :
 ```
 import requests
-exec(reuests.get('https://raw.githubusercontent.com/Zaky202/PySwitch/main/PySwitch.py').text)
+exec(requests.get('https://raw.githubusercontent.com/Zaky202/PySwitch/main/PySwitch.py').text)
 ```
 # Usage -
 ```
