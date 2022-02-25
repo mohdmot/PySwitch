@@ -11,7 +11,7 @@ exec(requests.get('https://raw.githubusercontent.com/Zaky202/PySwitch/main/PySwi
 ```
 #
 ### Method 2:
-Download (PySwitch.py)[https://github.com/Zaky202/PySwitch/PySwitch.py] in Current Path of Your Script And Import it :
+Download [PySwitch.py](https://github.com/Zaky202/PySwitch/blob/main/PySwitch.py) in Current Path of Your Script And Import it :
 ```py
 from PySwitch import *
 ```
